@@ -4,4 +4,4 @@ Kelas: M\
 \
 2026\
 
-[Hasil Screenshot](./images/mobile-programming2.png)
+![Hasil Screenshot](./images/mobile-programming2.png)
