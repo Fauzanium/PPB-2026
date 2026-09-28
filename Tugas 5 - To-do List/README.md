@@ -5,6 +5,9 @@ Tugas 5 Membuat To-Do List
 
 Aplikasi pengelolaan tugas To-Do List berbasis Android Jetpack Compose yang menerapkan komponen Material Design 3. Dan pemisahan daftar berdasarkan status penyelesaian tugas (*Active* dan *Done*).
 
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/27e614a1-cee8-4915-a1d2-e3610b3a19a7" />
+
+
 ---
 ### 1. Model Data (`Task`)
 
