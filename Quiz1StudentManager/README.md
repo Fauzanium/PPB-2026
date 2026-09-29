@@ -1,6 +1,7 @@
 # Student Manager
 
 Aplikasi Android berbasis **Jetpack Compose** dan **Material 3** untuk mengelola data mahasiswa serta fitur pencarian data secara real-time.
+Link Demo: https://drive.google.com/drive/u/0/folders/131TkZIJn0NbpkUhq24edsBvu5hnDS-7F
 
 <img src="Screenshot%202026-09-29%20144111.png" alt="" width="1920" height="1038">
 

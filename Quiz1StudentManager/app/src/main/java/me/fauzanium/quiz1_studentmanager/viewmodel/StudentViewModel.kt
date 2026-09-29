@@ -34,11 +34,7 @@ data class StudentUiState(
         }
 }
 
-private val initialStudents = listOf(
-    Student(nim = "2301001", name = "Budi Santoso", programStudi = "Informatika"),
-    Student(nim = "2301002", name = "Siti Aminah", programStudi = "Sistem Informasi"),
-    Student(nim = "2301003", name = "Andi Wijaya", programStudi = "Teknik Komputer")
-)
+private val initialStudents = listOf<Student>()
 
 class StudentViewModel : ViewModel() {
     private val _uiState = MutableStateFlow(StudentUiState())
