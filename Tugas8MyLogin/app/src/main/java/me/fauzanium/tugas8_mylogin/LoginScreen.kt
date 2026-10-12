@@ -1,12 +1,17 @@
 package me.fauzanium.tugas8_mylogin
 
+
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.material3.Button
 import androidx.compose.material3.OutlinedTextField
@@ -53,7 +58,19 @@ fun LoginScreen() {
 
         Spacer(modifier = Modifier.height(32.dp))
         Text("or sign in with")
+        Spacer(modifier = Modifier.height(32.dp))
 
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceEvenly
+        ) {
+            Image(painter = painterResource(id = R.drawable.google), contentDescription = "Login Image",
+                modifier = Modifier.size(48.dp))
+            Image(painter = painterResource(id = R.drawable.facebook), contentDescription = "Login Image",
+                modifier = Modifier.size(48.dp))
+            Image(painter = painterResource(id = R.drawable.twitter), contentDescription = "Login Image",
+                modifier = Modifier.size(48.dp))
+        }
 
 
     }
