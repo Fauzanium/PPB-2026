@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="382e52ee-eea6-4357-8c98-9d4bf8d16f44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/me/fauzanium/tugas8_mylogin/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/fauzanium/tugas8_mylogin/LoginScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/fauzanium/tugas8_mylogin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/fauzanium/tugas8_mylogin/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/fauzanium/tugas8_mylogin/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/fauzanium/tugas8_mylogin/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/keepRules/rules.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/Screenshot 2026-09-29 144111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/androidTest/java/me/fauzanium/quiz1_studentmanager/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/data/ProgramStudi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/model/Student.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/components/AboutAppDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/components/DeleteConfirmationDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/components/StudentCard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/screens/AddEditStudentScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/screens/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/screens/SplashScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/java/me/fauzanium/quiz1_studentmanager/viewmodel/StudentViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/keepRules/rules.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/app/src/test/java/me/fauzanium/quiz1_studentmanager/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/gradle/gradle-daemon-jvm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz1StudentManager/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/androidTest/java/me/fauzanium/happybirthday/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/java/me/fauzanium/happybirthday/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/java/me/fauzanium/happybirthday/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/java/me/fauzanium/happybirthday/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/java/me/fauzanium/happybirthday/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/keepRules/rules.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/app/src/test/java/me/fauzanium/happybirthday/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/gradle/gradle-daemon-jvm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 4 - Happy Birthday/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/androidTest/java/me/fauzanium/tugas4_to_dolist/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/java/me/fauzanium/tugas4_to_dolist/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/java/me/fauzanium/tugas4_to_dolist/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/java/me/fauzanium/tugas4_to_dolist/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/java/me/fauzanium/tugas4_to_dolist/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/keepRules/rules.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/app/src/test/java/me/fauzanium/tugas4_to_dolist/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/gradle/gradle-daemon-jvm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 5 - To-do List/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/androidTest/java/me/fauzanium/diceroller/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/java/me/fauzanium/diceroller/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/java/me/fauzanium/diceroller/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/java/me/fauzanium/diceroller/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/java/me/fauzanium/diceroller/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/keepRules/rules.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/dice_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/dice_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/dice_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/dice_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/dice_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/dice_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/app/src/test/java/me/fauzanium/diceroller/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/gradle/gradle-daemon-jvm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas 6 - Dice Roller/skrinsut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/androidTest/java/me/fauzanium/tugas7_shoppingcart/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/java/me/fauzanium/tugas7_shoppingcart/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/java/me/fauzanium/tugas7_shoppingcart/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/java/me/fauzanium/tugas7_shoppingcart/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/java/me/fauzanium/tugas7_shoppingcart/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/keepRules/rules.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/drawable/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/drawable/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/drawable/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/drawable/p4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/app/src/test/java/me/fauzanium/tugas7_shoppingcart/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/gradle/gradle-daemon-jvm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas7ShoppingCart/skrinsut.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tugas 8 - MyLogin" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KZk3RgLhVWYE7Pn1N023uOaxJS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Tugas_8_-_MyLogin.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Trace" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="382e52ee-eea6-4357-8c98-9d4bf8d16f44" name="Changes" comment="" />
+      <created>1791772278935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791772278935</updated>
+    </task>
+    <servers />
+  </component>
+</project>
