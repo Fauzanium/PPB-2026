@@ -1,6 +1,6 @@
 # LoginScreen (Jetpack Compose)
 
-![a](/skrinsut.png)
+![a](./skrinsut.png)
 
 Function `LoginScreen` adalah function composable yang menampilkan halaman login. Seluruh elemen UI disusun secara vertikal di tengah layar menggunakan `Column`. 
 
