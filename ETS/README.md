@@ -79,24 +79,3 @@ data class Member(
 
 
 **Link Video Demo:**
-
-#### Skenario Demo yang Ditunjukkan dalam Video:
-1. **Demo Form & Validasi Real-time:**
-   - Pengujian input kolom kosong, kesalahan format email (tanpa `@`), dan input NIM kurang dari 5 digit.
-   - Penampilan pesan indikator error berwarna merah secara otomatis.
-   - Pendaftaran anggota baru hingga muncul *Snackbar notification*.
-2. **Demo Dashboard & Statistik:**
-   - Pembaruan angka statistik (Total, Mahasiswa, Dosen, Tendik/Umum) secara otomatis saat data bertambah.
-3. **Demo Real-time Search & Filter:**
-   - Pencarian cepat anggota berdasarkan Nama dan NIM.
-   - Penyaringan menggunakan *FilterChip* Jenis Keanggotaan.
-4. **Demo Kelola Data (CRUD & Delete Dialog):**
-   - Mengubah (Edit) data anggota terdaftar.
-   - Menghapus data anggota dengan dialog konfirmasi (`ConfirmDeleteDialog`).
-5. **Demo Kartu Anggota Digital:**
-   - Membuka Kartu Anggota Digital Perpustakaan lengkap dengan ID Digital & QR Code.
-
----
-
-### 📄 Lisensi
-Hak Cipta © 2025 **LibraryReg Project**. Dikembangkan untuk tugas ETS Android Development.
