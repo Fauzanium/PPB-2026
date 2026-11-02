@@ -1,5 +1,5 @@
 
-![Tampilan Login Berhasil](/skrinsut.png)
+![Tampilan Login Berhasil](./skrinsut.png)
 
 
 ## Deskripsi Singkat
