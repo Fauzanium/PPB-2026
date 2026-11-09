@@ -9,18 +9,21 @@ MarketSiswa Food Ordering adalah aplikasi Android pemesanan makanan berbasis kar
 **1. Beranda dan Filter Kategori**
 Menampilkan daftar makanan siswa, kolom pencarian, dan filter kategori.
 
-![home](./home.png)
+<img src="home.png" width="300" alt="Description" />
+
 
 **2. Detail Makanan dan Keranjang Belanja**
 Menampilkan rincian produk, jumlah porsi, serta manajemen item keranjang belanja.\
 
-![detail](./detail.png)
+<img src="detail.png" width="300" alt="Description" />
+
 
 
 **3. Checkout dan Konfirmasi Pesanan**
 Formulir alamat pengiriman, metode pembayaran, dan rincian transaksi.
 
-![checkout](./checkout.png)
+<img src="checkout.png" width="300" alt="Description" />
+
 
 
 **4. Navigasi dan Mode Tema**
